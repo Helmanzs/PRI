@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Jan</name>
+        <surname>Novak</surname>
+        <faculty>Faculty of Informatics</faculty>
+        <student_id>123456</student_id>
+        <email>jan.novak@example.com</email>
+        <academic_year>3</academic_year>
+        <courses>
+            <course completed="0">Math</course>
+            <course completed="1">Physics</course>
+            <course completed="0">Chemistry</course>
+            <course completed="0">English</course>
+            <course completed="1">History</course>
+        </courses>
+        <address>
+            <street>Vysoká 10</street>
+            <town>Praha</town>
+        </address>
+    </student>
+</students>

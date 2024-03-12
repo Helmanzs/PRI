@@ -1,0 +1,36 @@
+<!ELEMENT fakulta (katedra+)>
+<!ATTLIST fakulta dekan CDATA #REQUIRED>
+
+<!ELEMENT katedra (vedouci, zamestnanci, predmety)>
+<!ATTLIST katedra
+    zkratka_katedry CDATA #REQUIRED
+    webové_stránky CDATA "https://www.ujep.cz/cs/">
+
+<!ELEMENT vedouci (jmeno, (telefon|email)+)>
+
+<!ELEMENT jmeno (#PCDATA)>
+
+<!ELEMENT telefon (#PCDATA)>
+
+<!ELEMENT email (#PCDATA)>
+
+<!ELEMENT zamestnanci (zamestnanec+)>
+
+<!ELEMENT zamestnanec (jmeno, (telefon|email)+, pozice?)>
+
+<!ELEMENT pozice (lektor|asistent|odborny_asistent|docent|profesor)?>
+<!ELEMENT lektor EMPTY>
+<!ELEMENT asistent EMPTY>
+<!ELEMENT odborny_asistent EMPTY>
+<!ELEMENT docent EMPTY>
+<!ELEMENT profesor EMPTY>
+
+<!ELEMENT predmety (predmet*)>
+
+<!ELEMENT predmet (nazev, popis?)>
+<!ATTLIST predmet
+    zkratka CDATA #REQUIRED
+    typ (prednaska|seminar|cviceni|kombinovane) "kombinovane">
+
+<!ELEMENT nazev (#PCDATA)>
+<!ELEMENT popis (#PCDATA)>

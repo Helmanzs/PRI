@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fakulta SYSTEM "fakulta.dtd">
+<fakulta dekan="Prof. Ing. Jan Dvořák, DrSc.">
+
+    <katedra zkratka_katedry="KINF" webové_stránky="https://www.ujep.cz/cs/katedra-informatiky">
+        <vedouci>
+            <jmeno>doc. Ing. Petr Novotný, Ph.D.</jmeno>
+            <telefon>+420 123 456 789</telefon>
+            <email>petr.novotny@ujep.cz</email>
+        </vedouci>
+        <zamestnanci>
+            <zamestnanec>
+                <jmeno>John Doe</jmeno>
+                <telefon>+420 987 654 321</telefon>
+                <email>john.doe@ujep.cz</email>
+                <pozice>
+                    <profesor />
+                </pozice>
+            </zamestnanec>
+        </zamestnanci>
+        <predmety>
+            <predmet zkratka="MAT101" typ="prednaska">
+                <nazev>Matematika I</nazev>
+                <popis>Kurz základní matematiky pro prváky.</popis>
+            </predmet>
+        </predmety>
+    </katedra>
+</fakulta>
