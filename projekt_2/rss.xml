@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:bnmedia="https://news.bitcoin.com/">
+
+    <channel>
+        <title>Bitcoin News</title>
+        <atom:link href="https://news.bitcoin.com/feed/" rel="self" type="application/rss+xml" />
+        <link>https://news.bitcoin.com/</link>
+        <description>Daily Bitcoin News</description>
+        <lastBuildDate>Tue, 12 Mar 2024 14:04:24 +0000</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+        <sy:updateFrequency>
+	6	</sy:updateFrequency>
+        <generator>https://wordpress.org/?v=6.1</generator>
+
+        <image>
+            <url>https://static.news.bitcoin.com/wp-content/uploads/2022/06/cropped-favicon-32x32.png</url>
+            <title>Bitcoin News</title>
+            <link>https://news.bitcoin.com/</link>
+            <width>32</width>
+            <height>32</height>
+        </image>
+        <item>
+            <title>Grayscale Aims to Launch Mini Bitcoin Trust for Lower Fees and Tax Benefits</title>
+            <link>https://news.bitcoin.com/grayscale-aims-to-launch-mini-bitcoin-trust-for-lower-fees-and-tax-benefits/</link>
+
+            <dc:creator><![CDATA[Jamie Redman]]></dc:creator>
+            <pubDate>Tue, 12 Mar 2024 15:05:07 +0000</pubDate>
+            <category><![CDATA[News]]></category>
+            <category><![CDATA[Bitcoin (BTC)]]></category>
+            <category><![CDATA[bitcoin trust]]></category>
+            <category><![CDATA[BTC]]></category>
+            <category><![CDATA[Crypto]]></category>
+            <category><![CDATA[Cryptocurrency]]></category>
+            <category><![CDATA[GBTC]]></category>
+            <category><![CDATA[grayscale]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637616</guid>
+
+            <description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Grayscale Aims to Launch Mini Bitcoin Trust for Lower Fees and Tax Benefits" decoding="async" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />Grayscale has revealed the submission of an S-1 form to the U.S. Securities and Exchange Commission (SEC) for the launch of a new, smaller version of its popular Grayscale Bitcoin Trust (GBTC). This initiative is designed to provide shareholders with exposure to bitcoin, reduced fees and potential tax benefits. Grayscale Unveils Bitcoin Mini Trust With [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/gcgtdyksk-760x428.jpg</bnmedia:url>
+                <bnmedia:width>760</bnmedia:width>
+                <bnmedia:height>428</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA[Grayscale Aims to Launch Mini #Bitcoin Trust for Lower Fees and Tax Benefits]]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[Grayscale Unveils #Bitcoin Mini Trust]]></bnmedia:late_barker_title>
+        </item>
+        <item>
+            <title>Crypto Economy&#8217;s Rise Fuels Defi Sector to Surpass $100 Billion TVL</title>
+            <link>https://news.bitcoin.com/crypto-economys-rise-fuels-defi-sector-to-surpass-100-billion-tvl/</link>
+
+            <dc:creator><![CDATA[Jamie Redman]]></dc:creator>
+            <pubDate>Tue, 12 Mar 2024 14:00:53 +0000</pubDate>
+            <category><![CDATA[Defi]]></category>
+            <category><![CDATA[Crypto]]></category>
+            <category><![CDATA[Cryptocurrency]]></category>
+            <category><![CDATA[decentralized finance]]></category>
+            <category><![CDATA[DeFi]]></category>
+            <category><![CDATA[defi economy]]></category>
+            <category><![CDATA[Ethereum]]></category>
+            <category><![CDATA[Lido]]></category>
+            <category><![CDATA[uniswap]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637611</guid>
+
+            <description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Crypto Economy&#039;s Rise Fuels Defi Sector to Surpass $100 Billion TVL" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />This week, as of March 9, 2024, the cumulative value held in decentralized finance (defi) platforms exceeded $100 billion for the first time since the downfall of Terra in May 2022. In the past 30 days, the leading three defi platforms have experienced an increase of at least 50%, fueled by the substantial rise in [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/defissd-760x428.jpg</bnmedia:url>
+                <bnmedia:width>760</bnmedia:width>
+                <bnmedia:height>428</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA[#Crypto Economy's Rise Fuels #Defi Sector to Surpass $100 Billion TVL]]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[Major Growth in #Defi With Several Protocols Recording Double-Digit Monthy Rises ]]></bnmedia:late_barker_title>
+        </item>
+        <item>
+            <title>Tether Launches USDT on Celo Targeting Increased Usability</title>
+            <link>https://news.bitcoin.com/tether-launches-usdt-on-celo-targeting-increased-usability/</link>
+
+            <dc:creator><![CDATA[Sergio Goschenko]]></dc:creator>
+            <pubDate>Tue, 12 Mar 2024 13:05:53 +0000</pubDate>
+            <category><![CDATA[Altcoins]]></category>
+            <category><![CDATA[celo]]></category>
+            <category><![CDATA[Crypto]]></category>
+            <category><![CDATA[Cryptocurrency]]></category>
+            <category><![CDATA[Paolo Ardoino]]></category>
+            <category><![CDATA[Tether]]></category>
+            <category><![CDATA[USDT]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637555</guid>
+
+            <description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/05de9b35-f0ac-4aa7-899a-8f4d2de39187-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Tether to Launch USDT on Celo Targeting Increased Usability" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/05de9b35-f0ac-4aa7-899a-8f4d2de39187-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/05de9b35-f0ac-4aa7-899a-8f4d2de39187-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/05de9b35-f0ac-4aa7-899a-8f4d2de39187-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/05de9b35-f0ac-4aa7-899a-8f4d2de39187-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/05de9b35-f0ac-4aa7-899a-8f4d2de39187-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/05de9b35-f0ac-4aa7-899a-8f4d2de39187-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/05de9b35-f0ac-4aa7-899a-8f4d2de39187.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />Tether, the company behind the issuance of USDT, the largest stablecoin in the cryptocurrency market, has announced the launch of its currency on Celo, an EVM-compatible blockchain. Paolo Ardoino, CEO of Tether, stated that this move was focused on enhancing the &#x201C;usability and accessibility of Tether for millions of people.&#x201D; Tether Announces USDT&#x2019;s Launch on [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/05de9b35-f0ac-4aa7-899a-8f4d2de39187-760x428.jpg</bnmedia:url>
+                <bnmedia:width>760</bnmedia:width>
+                <bnmedia:height>428</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA[#Tether Launches #USDT on #Celo Targeting Increased Usability]]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[#Tether Announces #USDT Launch on #Celo Targeting Increased Usability]]></bnmedia:late_barker_title>
+        </item>
+        <item>
+            <title>Economic Intelligence Unit: Nigerian Central Bank Lacks Capacity to Defend Local Currency</title>
+            <link>https://news.bitcoin.com/economic-intelligence-unit-nigerian-central-bank-lacks-capacity-to-defend-local-currency/</link>
+
+            <dc:creator><![CDATA[Terence Zimwara]]></dc:creator>
+            <pubDate>Tue, 12 Mar 2024 11:30:28 +0000</pubDate>
+            <category><![CDATA[Africa]]></category>
+            <category><![CDATA[currency depreciation]]></category>
+            <category><![CDATA[Devaluation]]></category>
+            <category><![CDATA[Foreign exchange]]></category>
+            <category><![CDATA[US Dollar]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637494</guid>
+
+            <description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2260156531-1-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Economic Intelligence Unit: Nigerian Central Bank Lacks Capacity to Defend Local Currency" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2260156531-1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2260156531-1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2260156531-1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2260156531-1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2260156531-1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2260156531-1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2260156531-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />The Economic Intelligence Unit has stated that the Central Bank of Nigeria cannot halt the rapid depreciation of the local currency. The continued volatility of the naira is expected to result in erratic regulation, primarily affecting businesses that hold foreign exchange. Nigeria Presses Ahead With Reforms The Economic Intelligence Unit (EIU) has stated that the [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2260156531-1-760x428.jpg</bnmedia:url>
+                <bnmedia:width>760</bnmedia:width>
+                <bnmedia:height>428</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA[Economic Intelligence Unit: Nigerian Central Bank Lacks Capacity to Defend Local Currency #usdollar #devaluation]]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[Economic Intelligence Unit: The Continued Volatility of Nigeria’s Currency Leads to Erratic Regulation]]></bnmedia:late_barker_title>
+        </item>
+        <item>
+            <title>&#8216;Web3 Gaming Offers a Pathway to a More Inclusive and Vibrant Gaming Ecosystem&#8217; — Weiwei Geng</title>
+            <link>https://news.bitcoin.com/web3-gaming-offers-a-pathway-to-a-more-inclusive-and-vibrant-gaming-ecosystem-weiwei-geng/</link>
+
+            <dc:creator><![CDATA[Terence Zimwara]]></dc:creator>
+            <pubDate>Tue, 12 Mar 2024 09:30:57 +0000</pubDate>
+            <category><![CDATA[Interview]]></category>
+            <category><![CDATA[blockchain gaming]]></category>
+            <category><![CDATA[crypto assets]]></category>
+            <category><![CDATA[decentralized finance]]></category>
+            <category><![CDATA[play-to-earn (P2E)]]></category>
+            <category><![CDATA[Web3 gaming]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637053</guid>
+
+            <description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2104834736-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2104834736-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2104834736-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2104834736-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2104834736-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2104834736-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2104834736-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2104834736.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />While the traditional gaming industry&#8217;s free-to-play model is largely credited for its past and projected success, on the downside this model only prioritizes building games that &#8220;optimize for addiction and profit maximisation&#8221; rather than &#8220;innovative entertainment,&#8221; Weiwei Geng, the CEO of Taki Games, has argued. The Blockchain Can Revolutionize the Gaming Landscape According to Geng, [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_2104834736-760x428.jpg</bnmedia:url>
+                <bnmedia:width>760</bnmedia:width>
+                <bnmedia:height>428</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA['Web3 Gaming Offers a Pathway to a More Inclusive and Vibrant Gaming Ecosystem' — Weiwei Geng #web3 #blockchain #crypto]]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[Blockchain Could Revolutionize Gaming Landscape, Says Weiwei Geng]]></bnmedia:late_barker_title>
+        </item>
+        <item>
+            <title>Tim Draper Expects Bitcoin to Transform El Salvador Into One of the Richest Countries in the World</title>
+            <link>https://news.bitcoin.com/tim-draper-expects-bitcoin-to-transform-el-salvador-into-one-of-the-richest-countries-in-the-world/</link>
+
+            <dc:creator><![CDATA[Sergio Goschenko]]></dc:creator>
+            <pubDate>Tue, 12 Mar 2024 07:30:34 +0000</pubDate>
+            <category><![CDATA[News]]></category>
+            <category><![CDATA[Bitcoin (BTC)]]></category>
+            <category><![CDATA[Crypto]]></category>
+            <category><![CDATA[Cryptocurrency]]></category>
+            <category><![CDATA[El Salvador]]></category>
+            <category><![CDATA[Nayib Bukele]]></category>
+            <category><![CDATA[Tim Draper]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637226</guid>
+
+            <description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/6ce40f98-4222-49dd-bdcc-cd78015a9306-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Tim Draper Expects Bitcoin to Transform El Salvador Into One of the Richest Countries" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/6ce40f98-4222-49dd-bdcc-cd78015a9306-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/6ce40f98-4222-49dd-bdcc-cd78015a9306-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/6ce40f98-4222-49dd-bdcc-cd78015a9306-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/6ce40f98-4222-49dd-bdcc-cd78015a9306-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/6ce40f98-4222-49dd-bdcc-cd78015a9306-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/6ce40f98-4222-49dd-bdcc-cd78015a9306-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/6ce40f98-4222-49dd-bdcc-cd78015a9306.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />Tim Draper, a venture capitalist famous for his bitcoin price predictions, has praised El Salvador&#8217;s vision of embracing this new technology and talked about the benefits of this decision for its people. According to Draper, bitcoin will make El Salvador one of the richest countries in the world in the next 30 or 40 years. [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/6ce40f98-4222-49dd-bdcc-cd78015a9306-760x428.jpg</bnmedia:url>
+                <bnmedia:width>760</bnmedia:width>
+                <bnmedia:height>428</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA[Tim #Draper Expects #Bitcoin to Transform El Salvador Into One of the Richest Countries in the World]]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[Tim #Draper Expects #Bitcoin to Transform El Salvador Into a Rich Country]]></bnmedia:late_barker_title>
+        </item>
+        <item>
+            <title>Solana Co-Founder Anatoly Yakovenko Thinks Crypto Has a Shot at Disrupting the App Store Duopoly</title>
+            <link>https://news.bitcoin.com/solana-co-founder-anatoly-yakovenko-thinks-crypto-has-a-shot-at-disrupting-the-app-store-duopoly/</link>
+
+            <dc:creator><![CDATA[Sergio Goschenko]]></dc:creator>
+            <pubDate>Tue, 12 Mar 2024 05:30:13 +0000</pubDate>
+            <category><![CDATA[News]]></category>
+            <category><![CDATA[Anatoly Yakovenko]]></category>
+            <category><![CDATA[Apple]]></category>
+            <category><![CDATA[Crypto]]></category>
+            <category><![CDATA[Cryptocurrency]]></category>
+            <category><![CDATA[Google]]></category>
+            <category><![CDATA[Mobile app store duopoly]]></category>
+            <category><![CDATA[solana labs]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637319</guid>
+
+            <description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/1d461882-4d06-43bb-b486-3adcdc18abd1-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Solana Co-Founder Anatoly Yakovenko Thinks Crypto Has a Shot at Disrupting the App Store Duopoly" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/1d461882-4d06-43bb-b486-3adcdc18abd1-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/1d461882-4d06-43bb-b486-3adcdc18abd1-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/1d461882-4d06-43bb-b486-3adcdc18abd1-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/1d461882-4d06-43bb-b486-3adcdc18abd1-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/1d461882-4d06-43bb-b486-3adcdc18abd1-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/1d461882-4d06-43bb-b486-3adcdc18abd1-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/1d461882-4d06-43bb-b486-3adcdc18abd1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />Anatoly Yakovenko, co-founder of Solana Labs, believes that crypto can have a shot at disrupting Google&#8217;s and Apple&#8217;s app store duopoly. He criticized the state of the software distribution on mobile devices, lamenting that the two stores collected over 30% of all earnings just to display a top 10 list of the most downloaded apps. [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/1d461882-4d06-43bb-b486-3adcdc18abd1-760x428.jpg</bnmedia:url>
+                <bnmedia:width>760</bnmedia:width>
+                <bnmedia:height>428</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA[#Solana Co-Founder Anatoly Yakovenko Thinks #Crypto Has a Shot at Disrupting the App Store Duopoly]]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[#Solana Co-Founder Anatoly Yakovenko Considers #Crypto Has a Shot at Disrupting the App Store Duopoly]]></bnmedia:late_barker_title>
+        </item>
+        <item>
+            <title>JPMorgan CEO Jamie Dimon Says He &#8216;Won&#8217;t Personally Ever&#8217; Buy Bitcoin</title>
+            <link>https://news.bitcoin.com/jpmorgan-ceo-jamie-dimon-says-he-wont-personally-ever-buy-bitcoin/</link>
+
+            <dc:creator><![CDATA[Kevin Helms]]></dc:creator>
+            <pubDate>Tue, 12 Mar 2024 03:30:31 +0000</pubDate>
+            <category><![CDATA[Featured]]></category>
+            <category><![CDATA[Bankers]]></category>
+            <category><![CDATA[Crypto]]></category>
+            <category><![CDATA[crypto celebrities]]></category>
+            <category><![CDATA[Cryptocurrency]]></category>
+            <category><![CDATA[Jamie Dimon]]></category>
+            <category><![CDATA[jpmorgan]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637545&#038;preview=true&#038;preview_id=637545</guid>
+
+            <description><![CDATA[<img width="666" height="375" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/jamie-dimon-bitcoin.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="JPMorgan CEO Jamie Dimon Says He &#039;Won&#039;t Personally Ever&#039; Buy Bitcoin" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/jamie-dimon-bitcoin-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/jamie-dimon-bitcoin-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/jamie-dimon-bitcoin-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/jamie-dimon-bitcoin.jpg 666w" sizes="(max-width: 666px) 100vw, 666px" />The chief executive of JPMorgan Chase, Jamie Dimon, has doubled down on his anti-crypto stance, declaring that he will never personally buy bitcoin. His investment bank, however, is an authorized participant for Blackrock&#x2019;s spot bitcoin exchange-traded fund (ETF). Despite his personal reservations about bitcoin, Dimon acknowledged his clients&#x2019; interest and championed their freedom to invest. [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/jamie-dimon-bitcoin.jpg</bnmedia:url>
+                <bnmedia:width>666</bnmedia:width>
+                <bnmedia:height>375</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA[#JPMorgan CEO #JamieDimon Says He 'Won't Personally Ever' Buy #Bitcoin]]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[#JPMorgan Chase CEO #JamieDimon has doubled down on his anti-#crypto stance, declaring that he will never personally buy #bitcoin.]]></bnmedia:late_barker_title>
+        </item>
+        <item>
+            <title>Donald Trump Calls BTC &#8216;an Additional Form of Currency&#8217; — Says &#8216;I Sometimes Will Let People Pay Through Bitcoin&#8217;</title>
+            <link>https://news.bitcoin.com/donald-trump-calls-btc-an-additional-form-of-currency-says-i-sometimes-will-let-people-pay-through-bitcoin/</link>
+
+            <dc:creator><![CDATA[Kevin Helms]]></dc:creator>
+            <pubDate>Tue, 12 Mar 2024 01:30:06 +0000</pubDate>
+            <category><![CDATA[Featured]]></category>
+            <category><![CDATA[Crypto]]></category>
+            <category><![CDATA[crypto celebrities]]></category>
+            <category><![CDATA[Cryptocurrency]]></category>
+            <category><![CDATA[Donald Trump]]></category>
+            <category><![CDATA[presidential candidates]]></category>
+            <category><![CDATA[TRUMP coins]]></category>
+            <category><![CDATA[US President]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637520&#038;preview=true&#038;preview_id=637520</guid>
+
+            <description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/trump-bitcoin-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Donald Trump Calls BTC &#039;an Additional Form of Currency&#039; — Says &#039;I Sometimes Will Let People Pay Through Bitcoin&#039;" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/trump-bitcoin-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/trump-bitcoin-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/trump-bitcoin-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/trump-bitcoin-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/trump-bitcoin-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/trump-bitcoin-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/trump-bitcoin.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />Former U.S. President Donald Trump says bitcoin is an &#x201C;additional form of currency,&#x201D; emphasizing that the crypto has taken on a life of its own. He also lets people pay for his merchandise with cryptocurrencies. &#x201C;There has been a lot of use of that, and I&#x2019;m not sure that I&#x2019;d want to take it away [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/trump-bitcoin-760x428.jpg</bnmedia:url>
+                <bnmedia:width>760</bnmedia:width>
+                <bnmedia:height>428</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA[#DonaldTrump Calls $BTC 'an Additional Form of Currency' — Says 'I Sometimes Will Let People Pay Through #Bitcoin']]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[Former President #DonaldTrump says #bitcoin is an "additional form of currency," emphasizing that the #crypto has taken on a life of its own.]]></bnmedia:late_barker_title>
+        </item>
+        <item>
+            <title>UK Watchdog Says It Will Not Object to Crypto ETN Listing Requests</title>
+            <link>https://news.bitcoin.com/uk-watchdog-says-it-will-not-object-to-crypto-etn-listing-requests/</link>
+
+            <dc:creator><![CDATA[Terence Zimwara]]></dc:creator>
+            <pubDate>Mon, 11 Mar 2024 23:30:46 +0000</pubDate>
+            <category><![CDATA[Regulation]]></category>
+            <category><![CDATA[Crypto]]></category>
+            <category><![CDATA[crypto derivatives]]></category>
+            <category><![CDATA[Crypto Scams]]></category>
+            <category><![CDATA[Cryptocurrency]]></category>
+            <category><![CDATA[ETNs]]></category>
+            <category><![CDATA[fca crypto]]></category>
+            <guid isPermaLink="false">https://news.bitcoin.com/?p=637474</guid>
+
+            <description><![CDATA[<img width="768" height="432" src="https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_122832445-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" style="float:left; margin:0 15px 15px 0;" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_122832445-300x169.jpg 300w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_122832445-1024x576.jpg 1024w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_122832445-768x432.jpg 768w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_122832445-190x107.jpg 190w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_122832445-380x214.jpg 380w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_122832445-760x428.jpg 760w, https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_122832445.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />The United Kingdom&#8217;s Financial Conduct Authority has said it will not object to requests by recognised investment exchanges to launch crypto-backed exchange-traded notes. The exchange-traded notes will only be made available to professional investors such as regulated investment firms. ETNs Must Adhere to UK Listing Requirements The Financial Conduct Authority (FCA), the watchdog for the [&#8230;]]]></description>
+
+
+
+            <bnmedia:post-thumbnail>
+                <bnmedia:url>https://static.news.bitcoin.com/wp-content/uploads/2024/03/shutterstock_122832445-760x428.jpg</bnmedia:url>
+                <bnmedia:width>760</bnmedia:width>
+                <bnmedia:height>428</bnmedia:height>
+            </bnmedia:post-thumbnail>
+            <bnmedia:barker_title><![CDATA[UK Watchdog Says It Will Not Object to #Crypto ETN Listing Requests #cryptoassets ]]></bnmedia:barker_title>
+            <bnmedia:late_barker_title><![CDATA[FCA Says #Crypto ETNs Must Adhere to U.K. Listing Requirements]]></bnmedia:late_barker_title>
+        </item>
+    </channel>
+</rss>

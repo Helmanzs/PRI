@@ -1,0 +1,14 @@
+<!ELEMENT faculties (faculty)>
+<!ELEMENT faculty (name,dean,departments)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT dean (#PCDATA)>
+<!ELEMENT departments (department)>
+<!ELEMENT department (name,head,employees)>
+<!ELEMENT head (#PCDATA)>
+<!ELEMENT employees (employee+)>
+<!ELEMENT employee (name,surname,position,contact,titles)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT position (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ELEMENT titles (title+)>
+<!ELEMENT title (#PCDATA)>

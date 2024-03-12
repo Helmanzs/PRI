@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faculties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="faculties.xsd">
+    <faculty>
+        <name>Faculty of Informatics</name>
+        <dean>Prof. Ing. Jan Dvořák, DrSc.</dean>
+        <departments>
+            <department>
+                <name>Department of Computer Science</name>
+                <head>Petr Novotný</head>
+                <employees>
+                    <employee>
+                        <name>John</name>
+                        <surname>Doe</surname>
+                        <position>Researcher</position>
+                        <contact>john.doe@facultyinformatics.cz</contact>
+                        <titles>
+                            <title>Ph.D.</title>
+                        </titles>
+                    </employee>
+                    <employee>
+                        <name>Petr</name>
+                        <surname>Novotný</surname>
+                        <position>Head of Computer Science</position>
+                        <contact>petr.novotny@facultyinformatics.cz</contact>
+                        <titles>
+                            <title>doc.</title>
+                            <title>Ing.</title>
+                            <title>Ph.D.</title>
+                        </titles>
+                    </employee>
+                </employees>
+            </department>
+        </departments>
+    </faculty>
+</faculties>

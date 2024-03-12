@@ -1,0 +1,14 @@
+<!ELEMENT students (student)>
+<!ELEMENT student (name,surname,faculty,student_id,email,academic_year,courses,address)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT faculty (#PCDATA)>
+<!ELEMENT student_id (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT academic_year (#PCDATA)>
+<!ELEMENT courses (course+)>
+<!ELEMENT course (#PCDATA)>
+<!ATTLIST course completed NMTOKEN #REQUIRED>
+<!ELEMENT address (street,town)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT town (#PCDATA)>
