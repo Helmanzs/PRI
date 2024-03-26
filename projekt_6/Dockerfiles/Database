@@ -1,0 +1,7 @@
+# zakladni docker obraz
+FROM mysql
+
+# inicializace databaze
+ADD ../schemas/university.sql /docker-entrypoint-initdb.d/
+
+

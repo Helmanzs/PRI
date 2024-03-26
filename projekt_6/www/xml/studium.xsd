@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:complexType name="predmet">
+        <xs:sequence>
+            <xs:element name="nazev" type="xs:token"/>
+            <xs:element ref="vyucujici"/>
+            <xs:element ref="kredity" />
+            <xs:element name="status" type="xs:token"/>
+            <xs:element ref="zakonceni"/>
+        </xs:sequence>
+        <xs:attribute name="katedra" use="required"/>
+        <xs:attribute name="kod" use="required"/>
+    </xs:complexType>
+
+    <xs:element name="vyucujici">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="jmeno" type="xs:token"/>
+                <xs:element name="telefon" type="xs:token"/>
+                <xs:element name="email" type="xs:token"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="semestr">
+        <xs:sequence>
+            <xs:element name="predmet" type="predmet" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="nazev">
+            <xs:simpleType>
+                <xs:restriction base="xs:token">
+                    <xs:enumeration value="zimni"/>
+                    <xs:enumeration value="letni"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+    <xs:complexType name="rocnik">
+        <xs:sequence>
+            <xs:element name="semestr" type="semestr" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="cislo" type="xs:integer" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="studium">
+        <xs:sequence>
+            <xs:element name="rocnik" type="rocnik" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="zakonceni">
+        <xs:simpleType>
+            <xs:restriction base="xs:token">
+                <xs:enumeration value="Zápočet"/>
+                <xs:enumeration value="Zkouška"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+    <xs:element name="kredity">
+        <xs:simpleType>
+            <xs:restriction base="xs:positiveInteger">
+                <xs:minInclusive value="1"/>
+                <xs:maxInclusive value="8"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+    <xs:element name="studium" type="studium"/>
+</xs:schema>

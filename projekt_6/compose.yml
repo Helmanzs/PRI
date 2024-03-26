@@ -6,11 +6,9 @@ services:
       context: .
       dockerfile: Dockerfiles/PhpApache
     volumes:
-      - ./html:/var/www/html/
+      - ./www:/var/www/
     ports:
       - 8000:80
-    depends_on:
-      - tailwind
 
   # MySQL database installation
   db:
@@ -34,9 +32,3 @@ services:
       PMA_HOST: db
     ports:
       - 8080:80
-
-  tailwind:
-    container_name: nodejs
-    build:
-      context: .
-      dockerfile: Dockerfiles/Nodejs

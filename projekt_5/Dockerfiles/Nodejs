@@ -1,0 +1,29 @@
+# Install node.js
+FROM node:latest AS builder
+
+# Set /app as your main directory in the container
+WORKDIR /app/
+
+# Copy package.json and package-lock.json from html directory to /app
+COPY html/package.json /app/
+
+# Install dependencies
+RUN npm install
+
+# Copy tailwind.config.js from projekt_5 directory to /app
+COPY ../tailwind.config.js /app/
+
+# Copy all CSS files in src directory from html directory to /app/src
+COPY html/src/ /app/src/
+
+# Build your Tailwind CSS
+RUN npm run build
+
+# Second stage for lightweight image
+FROM php:8-apache
+
+# Set /var/www/html as your main directory
+WORKDIR /var/www/html/
+
+# Copy built Tailwind CSS from builder stage to /var/www/html
+COPY --from=builder /app/dist/ /var/www/html

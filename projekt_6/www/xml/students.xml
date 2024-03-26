@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="students.xsd">
+    <student>
+        <name>Jan</name>
+        <surname>Novak</surname>
+        <faculty>Faculty of Informatics</faculty>
+        <student_id>123456</student_id>
+        <email>jan.novak@example.com</email>
+        <academic_year>3</academic_year>
+        <courses>
+            <course completed="0">Math</course>
+            <course completed="1">Physics</course>
+            <course completed="0">Chemistry</course>
+            <course completed="0">English</course>
+            <course completed="1">History</course>
+        </courses>
+        <address>
+            <street>Vysoká 10</street>
+            <town>Praha</town>
+        </address>
+    </student>
+    <student>
+        <name>Eva</name>
+        <surname>Nováková</surname>
+        <faculty>Faculty of Economics</faculty>
+        <student_id>456789</student_id>
+        <email>eva.novakova@example.com</email>
+        <academic_year>3</academic_year>
+        <courses>
+            <course completed="0">Microeconomics</course>
+            <course completed="1">Macroeconomics</course>
+            <course completed="0">Finance</course>
+            <course completed="1">Marketing</course>
+            <course completed="1">Accounting</course>
+        </courses>
+        <address>
+            <street>Havlíčkova 5</street>
+            <town>Brno</town>
+        </address>
+    </student>
+    <student>
+        <name>Petr</name>
+        <surname>Svoboda</surname>
+        <faculty>Faculty of Arts</faculty>
+        <student_id>987654</student_id>
+        <email>petr.svoboda@example.com</email>
+        <academic_year>2</academic_year>
+        <courses>
+            <course completed="1">Literature</course>
+            <course completed="0">History of Art</course>
+            <course completed="1">Music</course>
+            <course completed="1">Philosophy</course>
+            <course completed="0">Sociology</course>
+        </courses>
+        <address>
+            <street>Vodičkova 18</street>
+            <town>Prague</town>
+        </address>
+    </student>
+    <student>
+        <name>Anna</name>
+        <surname>Kovářová</surname>
+        <faculty>Faculty of Medicine</faculty>
+        <student_id>789012</student_id>
+        <email>anna.kovarova@example.com</email>
+        <academic_year>2</academic_year>
+        <courses>
+            <course completed="1">Biology</course>
+            <course completed="0">Chemistry</course>
+            <course completed="1">Anatomy</course>
+            <course completed="1">Physiology</course>
+            <course completed="0">English</course>
+        </courses>
+        <address>
+            <street>Úvoz 22</street>
+            <town>Brno</town>
+        </address>
+    </student>
+    <student>
+        <name>Tomáš</name>
+        <surname>Novotný</surname>
+        <faculty>Faculty of Law</faculty>
+        <student_id>345678</student_id>
+        <email>tomas.novotny@example.com</email>
+        <academic_year>4</academic_year>
+        <courses>
+            <course completed="1">Constitutional Law</course>
+            <course completed="1">Criminal Law</course>
+            <course completed="1">Civil Law</course>
+            <course completed="1">International Law</course>
+            <course completed="1">Legal Writing</course>
+        </courses>
+        <address>
+            <street>Panská 15</street>
+            <town>Olomouc</town>
+        </address>
+    </student>
+</students>

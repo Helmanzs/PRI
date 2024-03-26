@@ -1,0 +1,11 @@
+{
+    "name": "pri_aplikace",
+    "version": "1.0.0",
+    "description": "projekt pro KI/PRI",
+    "scripts": {
+        "build": "tailwindcss build src/styles.css -o dist/app.css"
+    },
+    "dependencies": {
+        "tailwindcss": "^3.0.0"
+    }
+}
