@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studium xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="studium.xsd">
+  <rocnik cislo="1">
+    <semestr nazev="zimni">
+      <predmet katedra="KI" kod="PGL1">
+        <nazev>Programování I</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Jiří Fišer, Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>jirifiser@ujep.cz</email>
+        </vyucujici>
+        <kredity>5</kredity>
+        <status>A</status>
+        <zakonceni>Zápočet</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="MUL">
+        <nazev>Multimédia</nazev>
+        <vyucujici>
+          <jmeno>Ing. Pavel Kuba</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>pavelkuba@ujep.cz</email>
+        </vyucujici>
+        <kredity>3</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="UDI">
+        <nazev>Úvod do informatiky</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Jindřich Jelínek</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>jindrichjelinek@ujep.cz</email>
+        </vyucujici>
+        <kredity>3</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+      <predmet katedra="KTV" kod="4003">
+        <nazev>Biomechanika</nazev>
+        <vyucujici>
+          <jmeno>PhDr. Martin Škopek, Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>martinskopek@ujep.cz</email>
+        </vyucujici>
+        <kredity>4</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+    </semestr>
+    <semestr nazev="letni">
+      <predmet katedra="KBI" kod="K110">
+        <nazev>Obecná Zoologie</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Karina Vašinová, Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>karinavasinova@ujep.cz</email>
+        </vyucujici>
+        <kredity>6</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="ADS">
+        <nazev>Algoritmy a datové struktury</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Květuše Sýkorová</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>kvetusesykorova@ujep.cz</email>
+        </vyucujici>
+        <kredity>2</kredity>
+        <status>A</status>
+        <zakonceni>Zápočet</zakonceni>
+      </predmet>
+    </semestr>
+  </rocnik>
+  <rocnik cislo="2">
+    <semestr nazev="zimni">
+      <predmet katedra="KI" kod="NME">
+        <nazev>Numerické metody</nazev>
+        <vyucujici>
+          <jmeno>doc. RNDr. Jiří Felcman, CSc.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>jirifelcman@ujep.cz</email>
+        </vyucujici>
+        <kredity>5</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="SPL">
+        <nazev>Speciální programovací jazyky</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Jiří Fišer, Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>jirifiser@ujep.cz</email>
+        </vyucujici>
+        <kredity>2</kredity>
+        <status>A</status>
+        <zakonceni>Zápočet</zakonceni>
+      </predmet>
+    </semestr>
+    <semestr nazev="letni">
+      <predmet katedra="KBI" kod="BP300">
+        <nazev>Kryptobióza</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Michaela Czerneková, Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>michaelaczernekova@ujep.cz</email>
+        </vyucujici>
+        <kredity>3</kredity>
+        <status>A</status>
+        <zakonceni>Zápočet</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="OSY">
+        <nazev>Operační systémy</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Jiří Fišer, Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>jirifiser@ujep.cz</email>
+        </vyucujici>
+        <kredity>5</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+      <predmet katedra="KBI" kod="KB423">
+        <nazev>Somatologie</nazev>
+        <vyucujici>
+          <jmeno>doc. RNDr. Eva Jozífková, Ph.D. et Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>evajozifkova@ujep.cz</email>
+        </vyucujici>
+        <kredity>4</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+    </semestr>
+  </rocnik>
+  <rocnik cislo="3">
+    <semestr nazev="zimni">
+      <predmet katedra="CNB" kod="BK502">
+        <nazev>Fyziologie živočichů a člověka</nazev>
+        <vyucujici>
+          <jmeno>Ing. Stanislav Vinopal, Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>stanislavvinopal@ujep.cz</email>
+        </vyucujici>
+        <kredity>6</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="DSY">
+        <nazev>Databázové systémy</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Květuše Sýkorová</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>kvetusesykorova@ujep.cz</email>
+        </vyucujici>
+        <kredity>5</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="PGR">
+        <nazev>Počítačová grafika</nazev>
+        <vyucujici>
+          <jmeno>Ing. Pavel Kuba</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>pavelkuba@ujep.cz</email>
+        </vyucujici>
+        <kredity>5</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="0138">
+        <nazev>Administrace linuxových systémů</nazev>
+        <vyucujici>
+          <jmeno>Ing. Roman Vaibar Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>romanvaibar@ujep.cz</email>
+        </vyucujici>
+        <kredity>3</kredity>
+        <status>B</status>
+        <zakonceni>Zápočet</zakonceni>
+      </predmet>
+    </semestr>
+    <semestr nazev="letni">
+      <predmet katedra="KI" kod="MRL">
+        <nazev>Značkovací jazyky</nazev>
+        <vyucujici>
+          <jmeno>doc. RNDr. Viktor Mashkov, DrSc.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>viktormashkov@ujep.cz</email>
+        </vyucujici>
+        <kredity>2</kredity>
+        <status>A</status>
+        <zakonceni>Zápočet</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="PDSY">
+        <nazev>Praktikum z databázových systémů</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Květuše Sýkorová</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>kvetusesykorova@ujep.cz</email>
+        </vyucujici>
+        <kredity>2</kredity>
+        <status>A</status>
+        <zakonceni>Zápočet</zakonceni>
+      </predmet>
+      <predmet katedra="KI" kod="PPGR">
+        <nazev>Praktikum z počítačové grafiky</nazev>
+        <vyucujici>
+          <jmeno>Mgr. et Bc. Kamil Balín</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>kamilbalin@ujep.cz</email>
+        </vyucujici>
+        <kredity>2</kredity>
+        <status>A</status>
+        <zakonceni>Zápočet</zakonceni>
+      </predmet>
+      <predmet katedra="CNB" kod="AMAT">
+        <nazev>Nekovové anorganické materiály</nazev>
+        <vyucujici>
+          <jmeno>Ing. Pavlína Hájková, Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>pavlinahajkova@ujep.cz</email>
+        </vyucujici>
+        <kredity>3</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+      <predmet katedra="CNB" kod="BIOB">
+        <nazev>Biofyzika a bioenergetika buňky</nazev>
+        <vyucujici>
+          <jmeno>Mgr. Jan Malý, Ph.D.</jmeno>
+          <telefon>+420123456789</telefon>
+          <email>janmaly@ujep.cz</email>
+        </vyucujici>
+        <kredity>5</kredity>
+        <status>A</status>
+        <zakonceni>Zkouška</zakonceni>
+      </predmet>
+    </semestr>
+  </rocnik>
+</studium>
